@@ -6,11 +6,11 @@ webhook_url:
 sections:
 - type: directory
   path: ''
-  label: test
+  label: Hello World
   create: all
   match: "**/*"
 - type: heading
-  label: Content
+  label: Hello World
 - type: directory
   path: content/posts
   label: Blog Posts
