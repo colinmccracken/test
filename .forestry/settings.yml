@@ -10,7 +10,7 @@ sections:
   create: all
   match: "**/*"
 - type: heading
-  label: Hello World
+  label: 'Yes'
 - type: directory
   path: content/posts
   label: Blog Posts
